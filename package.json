@@ -1,7 +1,7 @@
 {
   "name": "preact-redux",
   "amdName": "preactRedux",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Wraps react-redux up for Preact, without preact-compat",
   "main": "dist/preact-redux.js",
   "module": "dist/preact-redux.esm.js",
@@ -95,6 +95,6 @@
     "sinon-chai": "^2.14.0",
     "uglify-js": "^2.8.22",
     "webpack": "^3.10.0",
-    "typescript":"^2.6.2"
+    "typescript": "^2.6.2"
   }
 }
